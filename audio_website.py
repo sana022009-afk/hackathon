@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Use the URL you got from Phase 4 of the previous steps
-VIDEO_URL = "https://raw.githubusercontent.com/your-username/your-repo/main/Video%20Project%202.mp4"
+VIDEO_URL = "https://rawcdn.githack.com/your-username/your-repo/main/Video%20Project%202.mp4"
 AI_TUTOR_URL = "https://app.talkpal.ai/chat?modeType=main"
 
 st.title("AI Tutor Video Lesson")
