@@ -5,7 +5,7 @@ import psutil
 import os
  
 # 1. Your specific file path
-video_path = r"C:\Users\Lenovo\Desktop\Hackathon\Video Project 2.mp4"
+video_path = r"https://github.com/sana022009-afk/hackathon/raw/refs/heads/main/Video%20Project%202.mp4"
 web_url = "https://app.talkpal.ai/chat?modeType=main"
  
 def run_sequence():
